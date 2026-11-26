@@ -94,4 +94,4 @@ my-socket-assignment/
 ```
 ![alt text](<Screenshot 2026-11-26 102851-1.png>)
 ![alt text](<Screenshot 2026-11-26 102858-1.png>)
-![alt text](<Screenshot 2026-11-26 104057.png>)
+![alt text](<Screenshot 2026-11-26 103612-1.png>)
